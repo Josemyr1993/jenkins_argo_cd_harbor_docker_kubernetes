@@ -5,6 +5,8 @@ metadata:
   labels:
     app: webapp
 spec:
+  imagePullSecrets:
+    - name: harbor-credentials
   replicas: 2
   selector:
     matchLabels:
