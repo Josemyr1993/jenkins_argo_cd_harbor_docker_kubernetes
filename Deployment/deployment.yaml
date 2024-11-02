@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: web-container
-        image: 10.38.91.61/library/harbor_cicd:v5
+        image: 192.168.8.135/library/harbor_cicd:v5
         ports:
         - containerPort: 80
