@@ -1,21 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: webapp-deployment
+  name: webapp-deployment-dev
   labels:
-    app: webapp
+    app: webapp-dev
 spec:
   replicas: 2
   selector:
     matchLabels:
-      app: webapp
+      app: webapp-dev
   template:
     metadata:
       labels:
-        app: webapp
+        app: webapp-dev
     spec:
       containers:
-      - name: web-container
-        image: 10.38.91.61/library/harbor_cicd:v5
+      - name: web-container-dev
+        image: 10.38.91.61/library-dev/harbor_cicd:v5
         ports:
         - containerPort: 80
