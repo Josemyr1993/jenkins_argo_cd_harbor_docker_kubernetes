@@ -1,1 +1,4 @@
-# Harbor_CICD_Pipeline
+# CI/CD process with Kubernetes, Harbor, Jenkins, ArgoCD, Git and Containerd
+
+
+<img src="[https://github.com/Josemyr1993/CI_CD_Openshift_ArgoDC/blob/main/Animation.gif](https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/CI_CD.gif)" heigh="500" width="700">
