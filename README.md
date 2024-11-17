@@ -5,10 +5,10 @@
 
 
 <h2>Tools Needed</h2>
-- Jenkins
-- ArgoCD
-- GitHub
-- Harbor
-- Containerd
-- K8s Cluster
-- Good mood :)
+1. Jenkins
+2. ArgoCD
+3. GitHub
+4. Harbor
+5. Containerd
+6. K8s Cluster
+7. Good mood
