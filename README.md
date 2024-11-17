@@ -28,19 +28,19 @@
 <h3>Jenkins Build Image and Image Push</h3>
 
 <img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/jenkins_build.gif" heigh="1000" width="1000">
-
+<br>
 
 <h3>Harbor Image Check</h3>
 
 <img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/harbor_image.gif" heigh="1000" width="1000">
-
+<br>
 
 <h3>ArgoCD Sync And Deployment Process</h3>
 
 <img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/argocd_image.gif" heigh="1000" width="1000">
 
 :label: At this point we execute sync manually to force deployment of new pods by calling a kubernetes option (--force);
-
+<br>
 
 
 <h3>Kubernetes Validation workloads and Web Application Validation</h3>
