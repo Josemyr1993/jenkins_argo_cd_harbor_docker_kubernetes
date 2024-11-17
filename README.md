@@ -41,6 +41,7 @@
 
 :label: At this point we execute sync manually to force deployment of new pods by calling a kubernetes option in ArgoCD (--force);
 <br>
+Deployment creates components like: replicaset, pods (by replicas values defined), service Loadbalancer type and an external IP for our application access;
 
 <br>
 <h3>Kubernetes workloads validation and Web Application Validation</h3>
