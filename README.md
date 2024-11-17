@@ -49,6 +49,6 @@
 <br>
 
 <h3>References</h3>
-<i>Tanmay Bhandge - How to build and deploy applications on Kubernetes</i>
-<i>ArgoCD Official Documentation</i>
-<i>Harbor Official Documentation</i>
+<i>Tanmay Bhandge - How to build and deploy applications on Kubernetes.</i>
+<i>ArgoCD Official Documentation.</i>
+<i>Harbor Official Documentation.</i>
