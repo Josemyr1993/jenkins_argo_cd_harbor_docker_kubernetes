@@ -49,4 +49,4 @@
 <br>
 
 <h3>References</h3>
-_ Tanmay Bhandge - How to build and deploy applications on Kubernetes _
+<i></i>Tanmay Bhandge - How to build and deploy applications on Kubernetes</i>
