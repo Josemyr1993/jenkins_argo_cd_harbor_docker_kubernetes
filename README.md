@@ -16,4 +16,11 @@
 
 <h3>Explaning the Workflow</h3>
 
-a
+1. DevOps Engineer create a docker file with the specific configurations for the environment and dependencies.
+2. DevOps Enginner will commit and push the files created to Git repository.
+3. Jenkins jobs pulls the code from source code repository and start build the process.
+4. As soon as Jenkins finish building image, Jenkins pushes the image to Harbor private repository (Take note to configure the push job the settings "Git publisher" as "push only if build succeeds", by this way you'll not push images/settings with errors).
+5. Jenkins makes changes to the deployment file repository, which contains the Kubernetes deployment configurations needed for the application.
+6. ArgoCD sync the most recent update from the deployment source;
+7. With synced functions and modifications, ArgoCD apply these modifications and start the deployment the application on Kubernetes that create the necessary application pods as defined on deployment file;
+
