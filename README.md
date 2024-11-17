@@ -27,6 +27,8 @@
 
 <h3>Jenkins Build Image and Image Push</h3>
 
+<img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/jenkins_build.gif" heigh="1000" width="1000">
+
 <h3>Harbor Image Check</h3>
 
 <h3>ArgoCD Sync And Deployment Process</h3>
