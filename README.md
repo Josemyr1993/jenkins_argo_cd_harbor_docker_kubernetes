@@ -31,6 +31,8 @@
 
 <h3>Harbor Image Check</h3>
 
+<img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/harbor_image.gif" heigh="1000" width="1000">
+
 <h3>ArgoCD Sync And Deployment Process</h3>
 
 <h3>Kubernetes Validation workloads</h3>
