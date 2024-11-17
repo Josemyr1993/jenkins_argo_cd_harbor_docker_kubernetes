@@ -48,3 +48,5 @@
 <img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/k8s_image.gif" heigh="1000" width="1000">
 <br>
 
+<h3>References</h3>
+*Tanmay Bhandge - How to build and deploy applications on Kubernetes*
