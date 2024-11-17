@@ -42,6 +42,6 @@
 
 <h3>Kubernetes Validation workloads and Web Application Validation</h3>
 
-<img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/k8s.gif" heigh="1000" width="1000">
+<img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/k8s_image.gif" heigh="1000" width="1000">
 
 
