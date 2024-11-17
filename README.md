@@ -24,3 +24,15 @@
 6. ArgoCD sync the most recent update from the deployment source;
 7. With synced functions and modifications, ArgoCD apply these modifications and start the deployment the application on Kubernetes that create the necessary application pods as defined on deployment file;
 
+
+<h3>Jenkins Build Image and Image Push</h3>
+
+<h3>Harbor Image Check</h3>
+
+<h3>ArgoCD Sync And Deployment Process</h3>
+
+<h3>Kubernetes Validation workloads</h3>
+
+<h3>Web Application test from Browser</h3>
+
+
