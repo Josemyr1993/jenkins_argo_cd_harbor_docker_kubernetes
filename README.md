@@ -1,7 +1,7 @@
 # CI/CD process with Kubernetes, Harbor, Jenkins, ArgoCD, Git and Containerd :rocket:
 
 
-<img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/CI_CD_new.gif" heigh="100" width="800">
+<img src="https://github.com/Josemyr1993/jenkins_argo_cd_harbor_docker_kubernetes/blob/main/CI_CD_new.gif" heigh="800" width="800">
 
 
 <h2>Tools needed</h2>
