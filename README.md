@@ -12,7 +12,7 @@
 - Harbor.
 - Containerd.
 - K8s Cluster.
-- Good mood :-).
+- Good mood 😉.
 
 <h3>Explaning the Workflow</h3>
 
