@@ -22,7 +22,7 @@
 4. As soon as Jenkins finish building image, Jenkins pushes the image to Harbor private repository (Take note to configure the git push job settings from "Git publisher" as "push only if build succeeds", by this way only successfull builds will be pushed);
 5. Jenkins makes changes to the deployment file repository, which contains the Kubernetes deployment configurations needed for the application.
 6. ArgoCD sync the most recent update from the deployment source;
-7. With synced functions and modifications, ArgoCD apply these modifications and start the deployment the application on Kubernetes that create the necessary application pods as defined on deployment file;
+7. With synced functions and modifications, ArgoCD apply these modifications and start the deployment the application on Kubernetes that create the necessary application pods and service as defined on deployment file;
 
 
 <h3>Jenkins Build Image and Image Push</h3>
